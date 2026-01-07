@@ -22,10 +22,15 @@ The dashboard answers the following questions:
 
 
 Key Insights
+
 • Total revenue for Q1 2025: £785,365
+
 • Top revenue category: Laptops (£330,700), indicating strong demand for high-value products
+
 • Top performing store: Store B, with the highest total units sold (445 units)
+
 • Best-selling products:
+
 1. Galaxy Tab – 149 units
 2. Charger – 136 units
 3. Samsung S23 – 130 units
